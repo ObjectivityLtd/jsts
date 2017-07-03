@@ -1,4 +1,3 @@
 *.ast
 node_modules
-dist
 doc/jsts.js
